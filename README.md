@@ -13,5 +13,6 @@ Topics of Shell Scripting
 9. Quotes
 10. Redirectors
 11. sed editor
+13. Practice
 
 
